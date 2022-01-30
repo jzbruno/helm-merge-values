@@ -53,11 +53,11 @@ Requiements:
 
 | Plugin | Helm lib | Files | Set |
 | --- | --- | --- | --- |
-| [helm-merge-values](https://github.com/jzbruno/helm-merge-values) (this) | <span style="color:green">v3</span> | <span style="color:green">y</span> | <span style="color:green">y</span> |
-| [helm-push-artifactory-plugin](https://github.com/belitre/helm-push-artifactory-plugin) | <span style="color:red">x</span> | <span style="color:red">x</span> | <span style="color:green">y</span> |
-| [helm-subenv](https://github.com/hydeenoble/helm-subenv) | <span style="color:red">x</span> | <span style="color:red">x</span> | <span style="color:red">x</span> |
-| [helm-pack](https://github.com/thynquest/helm-pack) | <span style="color:red">x</span> | <span style="color:red">x</span> | <span style="color:green">y</span> |
-| [helm-starter](https://github.com/jlegrone/helm-starter) | <span style="color:red">x</span> | <span style="color:red">x</span> | <span style="color:red">x</span> |
-| [helm-plugin-render-values](https://github.com/vivid-money/helm-plugin-render-values) | <span style="color:red">x</span> | <span style="color:green">y</span> | <span style="color:red">x</span> |
-| [helm-values](https://github.com/shihyuho/helm-values) | <span style="color:red">x</span> | <span style="color:green">y</span> | <span style="color:red">x</span> |
-| [helm-external-val](https://github.com/kuuji/helm-external-val) | <span style="color:red">x</span> | <span style="color:red">x</span> | <span style="color:red">x</span> |
+| [helm-merge-values](https://github.com/jzbruno/helm-merge-values) (this) | v3 | y | y |
+| [helm-push-artifactory-plugin](https://github.com/belitre/helm-push-artifactory-plugin) | x | x | y |
+| [helm-subenv](https://github.com/hydeenoble/helm-subenv) | x | x | x |
+| [helm-pack](https://github.com/thynquest/helm-pack) | x | x | y |
+| [helm-starter](https://github.com/jlegrone/helm-starter) | x | x | x |
+| [helm-plugin-render-values](https://github.com/vivid-money/helm-plugin-render-values) | x | y | x |
+| [helm-values](https://github.com/shihyuho/helm-values) | x | y | x |
+| [helm-external-val](https://github.com/kuuji/helm-external-val) | x | x | x |

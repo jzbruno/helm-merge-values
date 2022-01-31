@@ -22,7 +22,7 @@ Contents:
 ## Install
 
 ```sh
-helm plugin install https://github.com/jzbruno/helm-merge-values --version 0.5.0
+helm plugin install https://github.com/jzbruno/helm-merge-values/
 ```
 
 ## Usage

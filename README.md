@@ -45,7 +45,7 @@ Since we are using the Helm Go library for merging values, the same priority rul
 
 The [helm-plugin](https://github.com/topics/helm-plugin) label was used to search for plugin projects on GitHub. Each project readme was used to determine if the required functionality is supported, along with searching of the code base.
 
-Requiements:
+Requirements:
 
 * Use same lib as Helm to ensure merge occurs the same way. Most use [spf13/cobra](github.com/spf13/cobra).
 * Accept multiple files

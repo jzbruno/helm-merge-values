@@ -3,6 +3,6 @@ version: "0.5.0"
 usage: "unittest for helm charts"
 description: "Helm Merge Values is a plugin to combine one or more Helm values files and zero or more value overrides."
 ignoreFlags: false
-command: "$HELM_PLUGINS/helm-merge-values/bin/helm-merge-values"
+command: "$HELM_PLUGIN_DIR/bin/helm-merge-values"
 hooks:
-  install: "$HELM_PLUGINS/helm-merge-values/scripts/install.sh"
+  install: "$HELM_PLUGIN_DIR/scripts/install.sh"
